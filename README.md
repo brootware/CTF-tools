@@ -17,6 +17,7 @@ Output will be written to **stringBaseFlag.txt** file with prefix **picoCTF**
 picoCTF{fsociety}
 ```
 
-TODO: merge base to string conversions to handle multipl of them in one script.
+## TODO 
+-[] merge base to string conversions to handle multipl of them in one script.
 
 Contributions are welcome.
