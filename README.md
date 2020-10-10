@@ -18,6 +18,6 @@ picoCTF{fsociety}
 ```
 
 ## TODO 
--[] merge base to string conversions to handle multipl of them in one script.
+- [ ] merge base to string conversions to handle multipl of them in one script.
 
 Contributions are welcome.
