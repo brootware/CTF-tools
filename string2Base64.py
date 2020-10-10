@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-A quick hacky tool created for picoCTF hexadecimal to string conversions
+A quick hacky tool created for picoCTF string to base64 conversions
 """
 
 __author__ = "Oaker Min"

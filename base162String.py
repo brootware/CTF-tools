@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-A quick hacky tool created for picoCTF hexadecimal to string conversions
+A quick hacky tool created for picoCTF base64 to string conversions
 """
 
 __author__ = "Oaker Min"
@@ -8,8 +8,8 @@ __version__ = "0.1.0"
 __license__ = "MIT"
 
 
-def hex2String():
-    fileWrite = "hexStringFlag.txt"
+def base642String():
+    fileWrite = "base162stringFlag.txt"
     hexInput = input(
         "Key in your hex number to convert. (E.g 41 = A) : ").strip()
 
@@ -24,7 +24,7 @@ def hex2String():
 
 def main():
     """ Main entry point of the app """
-    hex2String()
+    base642String()
 
 
 if __name__ == "__main__":
