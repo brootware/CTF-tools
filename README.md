@@ -10,7 +10,7 @@ python3 base642String.py
 Key in your base64
 ```ZnNvY2lldHk=```
 
-Output will be written to stringBaseFlag.txt file with prefix *picoCTF"
-*picoCTF{fsociety}*
+Output will be written to stringBaseFlag.txt file with prefix *picoCTF*
+```picoCTF{fsociety}```
 
 Contributions are welcome.
