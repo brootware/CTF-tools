@@ -7,10 +7,14 @@ Example to convert bas64 to a string : run as below
 python3 base642String.py
 ```
 
-Key in your base64
-```ZnNvY2lldHk=```
+Key in your base64. E.g (ZnNvY2lldHk=) in base64 is 'fsociety'
+```console
+ZnNvY2lldHk=
+```
 
 Output will be written to stringBaseFlag.txt file with prefix *picoCTF*
-```picoCTF{fsociety}```
+```console
+picoCTF{fsociety}
+```
 
 Contributions are welcome.
