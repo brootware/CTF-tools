@@ -12,7 +12,7 @@ Key in your base64. E.g (ZnNvY2lldHk=) in base64 is 'fsociety'
 ZnNvY2lldHk=
 ```
 
-Output will be written to stringBaseFlag.txt file with prefix *picoCTF*
+Output will be written to **stringBaseFlag.txt** file with prefix **picoCTF**
 ```console
 picoCTF{fsociety}
 ```
