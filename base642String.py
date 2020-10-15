@@ -10,10 +10,10 @@ __license__ = "MIT"
 import base64
 
 
-def base642Char():
+def base642String():
     fileWrite = "baseStringFlag.txt"
     baseInput = input(
-        "Key in your base64 to convert. (E.g bDNhcm5fdGgzX3IwcDM1 = l3arn_th3_r0p35) : ").strip()
+        "Key in your base64 to convert. (E.g ZnNvY2lldHk= = fsociety) : ").strip()
 
     # Conversion from base64 to char
     base64Bytes = baseInput.encode('ascii')
@@ -28,7 +28,7 @@ def base642Char():
 
 def main():
     """ Main entry point of the app """
-    base642Char()
+    base642String()
 
 
 if __name__ == "__main__":

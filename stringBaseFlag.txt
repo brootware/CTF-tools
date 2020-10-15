@@ -1,1 +1,1 @@
-picoCTF{bDNhcm5fdGgzX3IwcDM1}
+picoCTF{ZnNvY2lldHk=}

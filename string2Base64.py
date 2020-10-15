@@ -13,7 +13,7 @@ import base64
 def char2Base64():
     fileWrite = "stringBaseFlag.txt"
     stringInput = input(
-        "Key in your base64 to convert. (E.g l3arn_th3_r0p35  = bDNhcm5fdGgzX3IwcDM1) : ").strip()
+        "Key in your base64 to convert. (E.g fsociety  = ZnNvY2lldHk=) : ").strip()
 
     # Conversion from string to base64
     stringBytes = stringInput.encode('ascii')
