@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-A quick hacky tool created for picoCTF base64 to string conversions
+A quick hacky tool created for picoCTF hexadecimal to string conversions
 """
 
 __author__ = "Oaker Min"
@@ -11,7 +11,7 @@ import base64
 
 
 def base642String():
-    fileWrite = "base64StringFlag.txt"
+    fileWrite = "baseStringFlag.txt"
     baseInput = input(
         "Key in your base64 to convert. (E.g ZnNvY2lldHk= = fsociety) : ").strip()
 
