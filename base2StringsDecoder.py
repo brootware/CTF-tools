@@ -57,7 +57,7 @@ def main():
         elif choice == 2:
             hex2String()
         elif choice == 3:
-            print("haven't finished this function yet")
+            print("\nHaven't finished this function yet")
         elif choice == 4:
             print("\n Goodbye!")
             break
