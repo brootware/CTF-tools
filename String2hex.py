@@ -3,7 +3,7 @@
 A quick hacky tool created for picoCTF string to hex conversions
 """
 
-__author__ = "Oaker Min"
+__author__ = "Oaker Min - https://github.com/Brucius"
 __version__ = "0.1.0"
 __license__ = "MIT"
 
