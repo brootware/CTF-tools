@@ -1,5 +1,5 @@
-# picoTools
-Quick hacky tools created for picoCTF.
+# CTFTools
+Quick hacky tools created for CTFs.
 Everything is written and can be run in Python3.
 
 Example to convert bas64 to a string : run as below
