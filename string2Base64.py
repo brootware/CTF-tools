@@ -22,7 +22,7 @@ def string2Base64():
 
     with open(fileWrite, "w") as fileWrite:
         fileWrite.write("picoCTF{%s}" % (base64Message) + "\n")
-    print("Your base64 converted from strinng is is {}. Look inside your {}".format(
+    print("Your base64 converted from string is {}. Look inside your {}".format(
         base64Message, fileWrite))
 
 
